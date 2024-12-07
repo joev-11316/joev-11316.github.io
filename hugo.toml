@@ -1,4 +1,4 @@
 baseURL = 'https://mentalhealthstories.nl/'
 languageCode = 'en-us'
 title = 'Mental Health Stories'
-theme = 'ananke'
+theme = 'blowfish'
